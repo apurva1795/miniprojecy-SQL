@@ -1,1 +1,1 @@
-# miniprojecy-SQL
+# miniproject-SQL
